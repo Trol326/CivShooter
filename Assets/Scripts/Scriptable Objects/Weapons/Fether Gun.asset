@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e426157d9173d40b4c8ea7ff12fc42, type: 3}
+  m_Name: Fether Gun
+  m_EditorClassIdentifier: 
+  _weaponName: 
+  _weaponClass: FetherGun
+  _weaponID: 
+  _weaponModel: {fileID: 7991187609015340417, guid: c876e8ff404fac943bec6be62a6d981e, type: 3}
+  damage: 1
+  fireRate: 5
+  fireRange: 20
+  bulletSpeed: 25
+  bulletObject: {fileID: 7116917406405444907, guid: e8da096bf8bd101479636c51853db895, type: 3}

@@ -1,0 +1,1 @@
+"Smol Ame Mascot Suit - Hololive Expo 2022" (https://skfb.ly/o9qHw) by Seafoam is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).

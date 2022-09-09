@@ -1,0 +1,1 @@
+"SSRBs_Hololive" (https://skfb.ly/onQON) by Armored Interactive is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,1 @@
+"Oozora Subaru- Shuba Shuba Rigged" (https://skfb.ly/onwAB) by zackw is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

@@ -1,0 +1,1 @@
+"Hololive EN Council Nanashi Mumei Chibi" (https://skfb.ly/ornSz) by Liaval is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

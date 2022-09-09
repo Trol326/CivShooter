@@ -1,0 +1,1 @@
+"HololiveEN Council - SmolBae" (https://skfb.ly/o9RzJ) by KirbyDX is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).

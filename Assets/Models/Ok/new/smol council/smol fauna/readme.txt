@@ -1,0 +1,1 @@
+"HololiveEN Council - Smol Fauna" (https://skfb.ly/ourSO) by KirbyDX is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

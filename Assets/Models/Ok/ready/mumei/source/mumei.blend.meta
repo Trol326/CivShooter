@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 1cf7d6a46660290479b7572a9bab5e8e
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: mumei(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Belt
+      parentName: mumei(Clone)
+      position: {x: -0.004770398, y: 1.6908871, z: -0.14668922}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Belt_ring
+      parentName: mumei(Clone)
+      position: {x: -0.051721577, y: 1.0879419, z: -0.13705288}
+      rotation: {x: -0.5935711, y: 0.050949138, z: 0.079493895, w: 0.7992236}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: Body
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth_back
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth_button_1
+      parentName: mumei(Clone)
+      position: {x: -0.03584649, y: 1.2122753, z: -0.11900715}
+      rotation: {x: -0.077854015, y: 0.121456474, z: 0.010817999, w: 0.9894797}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Cloth_button_2
+      parentName: mumei(Clone)
+      position: {x: -0.027966851, y: 1.179218, z: -0.12007327}
+      rotation: {x: 0.008039065, y: 0.09836749, z: 0.00079465186, w: 0.99511737}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Cloth_chest
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cloth_vest
+      parentName: mumei(Clone)
+      position: {x: -0.001711905, y: 1.55, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Dagger
+      parentName: mumei(Clone)
+      position: {x: 0.10619206, y: 1.1501065, z: -0.10625449}
+      rotation: {x: -0.5852324, y: -0.22983707, z: -0.1524362, w: 0.7625229}
+      scale: {x: 0.015806576, y: 0.015796855, z: 0.01599072}
+    - name: Dagger_scabbard
+      parentName: mumei(Clone)
+      position: {x: 0.13211994, y: 1.0031062, z: -0.13844167}
+      rotation: {x: -0.5852324, y: -0.22983707, z: -0.1524362, w: 0.7625229}
+      scale: {x: 0.015806576, y: 0.015796855, z: 0.01599072}
+    - name: Eyebrow
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: -0.001087}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyelashes
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: -0.001087}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Eyes
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.55, z: 0}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Feather
+      parentName: mumei(Clone)
+      position: {x: 0.05136153, y: 1.775259, z: 0.10018261}
+      rotation: {x: -0.00000003966222, y: 0.000000020611928, z: -0.18261655, w: 0.9831842}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Feather_bottom_big
+      parentName: mumei(Clone)
+      position: {x: 0.09280741, y: 0.8934081, z: -0.1791535}
+      rotation: {x: 0.08601722, y: -0.16305771, z: 0.97896224, w: 0.08744236}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Feather_bottom_small
+      parentName: mumei(Clone)
+      position: {x: 0.08942798, y: 0.918062, z: -0.18384323}
+      rotation: {x: 0.107898444, y: -0.23207848, z: 0.95203775, w: 0.16769536}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: Hair_ahoge
+      parentName: mumei(Clone)
+      position: {x: -0.029753506, y: 1.6785003, z: -0.12211193}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair_back
+      parentName: mumei(Clone)
+      position: {x: -0, y: 1.5943178, z: 0}
+      rotation: {x: -0.24848005, y: 7.995352e-17, z: -7.99535e-17, w: 0.96863705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair_front
+      parentName: mumei(Clone)
+      position: {x: -0.0017494336, y: 1.5955442, z: -0.050291937}
+      rotation: {x: -0.703702, y: -0.0693086, z: -0.06930862, w: 0.7037018}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1}
+    - name: Hair_pin
+      parentName: mumei(Clone)
+      position: {x: 0.057653606, y: 1.5717051, z: -0.090003744}
+      rotation: {x: -0.06546645, y: -0.0074506956, z: -0.35987875, w: 0.9306696}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Hair_ponytail
+      parentName: mumei(Clone)
+      position: {x: 0.2323851, y: 1.1017101, z: 0.24502878}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair_tie
+      parentName: mumei(Clone)
+      position: {x: 0.000053198335, y: 1.655798, z: 0.11197551}
+      rotation: {x: 0.9700056, y: 5.3975335e-17, z: -1.7852788e-23, w: 0.24308282}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Lantern
+      parentName: mumei(Clone)
+      position: {x: -0.2275505, y: 0.85195947, z: -0.18742868}
+      rotation: {x: -0.60457146, y: -0.2274096, z: -0.5338711, w: 0.5456738}
+      scale: {x: 0.044760704, y: 0.044760704, z: 0.04476071}
+    - name: Lantern_belt_ring
+      parentName: mumei(Clone)
+      position: {x: -0.119864196, y: 1.0566027, z: -0.11830504}
+      rotation: {x: -0.6307476, y: 0.20084637, z: 0.16150337, w: 0.7319391}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Lantern_circle_ring
+      parentName: mumei(Clone)
+      position: {x: -0.13785084, y: 1.0384176, z: -0.13966972}
+      rotation: {x: -0.01836756, y: -0.3366106, z: 0.87520075, w: 0.3469577}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: Shoes
+      parentName: mumei(Clone)
+      position: {x: -0.13343774, y: 0.019346923, z: -0.05440215}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Side_LeatherBag
+      parentName: mumei(Clone)
+      position: {x: -0.22754306, y: 0.9779907, z: -0.07957175}
+      rotation: {x: 0.5383258, y: 0.44541746, z: 0.6397897, w: -0.32012156}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: Skirt
+      parentName: mumei(Clone)
+      position: {x: 0.00007492764, y: 0.8351698, z: -0.00021597743}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Skirt_ruffle
+      parentName: mumei(Clone)
+      position: {x: 0.00007492764, y: 0.8360953, z: -0.00021597743}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: String_main
+      parentName: mumei(Clone)
+      position: {x: 0.00033324957, y: 1.1495708, z: -0.036339287}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: String_minor
+      parentName: mumei(Clone)
+      position: {x: 0.10414193, y: 0.95892936, z: -0.16776401}
+      rotation: {x: 0.000000015454312, y: -0.000000015454313, z: -0.7071068, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tie
+      parentName: mumei(Clone)
+      position: {x: -0.00028824806, y: 1.372975, z: -0.055281457}
+      rotation: {x: 0.00000008146034, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

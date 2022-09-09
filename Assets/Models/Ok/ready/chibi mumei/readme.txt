@@ -1,0 +1,1 @@
+"[Hololive EN] 3D Chibi Mumei" (https://skfb.ly/ou8L8) by Welloy is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

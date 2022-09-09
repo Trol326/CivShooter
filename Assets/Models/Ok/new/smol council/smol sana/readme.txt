@@ -1,0 +1,1 @@
+"HololiveEN Council - Smol Sana" (https://skfb.ly/ov6IB) by KirbyDX is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).

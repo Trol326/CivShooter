@@ -1,0 +1,1 @@
+"HololiveEN Hope - Smol IRyS" (https://skfb.ly/o9RAS) by KirbyDX is licensed under Creative Commons Attribution-NonCommercial (http://creativecommons.org/licenses/by-nc/4.0/).
